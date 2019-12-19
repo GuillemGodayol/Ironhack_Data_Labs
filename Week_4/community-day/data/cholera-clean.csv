@@ -1,0 +1,299 @@
+,age,sex,Dehydration_level,Resting_blood_pressure,Average_cholesterol,Presence_of_seizures,Vomit_color,Gastric_acid_index,Blood_type_0,Feces_consistency,Exposure_to,Presence_of_fever,Cholera_test_result
+0,63,Male,Severe,145,233.0,True,Normal,150,False,Normal,No exposure,False,True
+1,37,Male,High,130,250.0,False,Abnormal,187,False,Normal,No exposure,False,True
+2,41,Female,Moderate,130,204.0,False,Normal,172,False,Rice Water,No exposure,False,True
+3,56,Male,Moderate,120,236.0,False,Abnormal,178,False,Rice Water,No exposure,False,True
+4,57,Female,Mild,120,354.0,False,Abnormal,163,True,Rice Water,No exposure,False,True
+5,57,Male,Mild,140,192.0,False,Abnormal,148,False,Watery,No exposure,False,True
+6,56,Female,Moderate,140,294.0,False,Normal,153,False,Watery,No exposure,False,True
+7,44,Male,Moderate,120,263.0,False,Abnormal,173,False,Rice Water,No exposure,False,True
+8,52,Male,High,172,199.0,True,Abnormal,162,False,Rice Water,No exposure,False,True
+9,57,Male,High,150,168.0,False,Abnormal,174,False,Rice Water,No exposure,False,True
+10,54,Male,Mild,140,239.0,False,Abnormal,160,False,Rice Water,No exposure,False,True
+11,48,Female,High,130,275.0,False,Abnormal,139,False,Rice Water,No exposure,False,True
+12,49,Male,Moderate,130,266.0,False,Abnormal,171,False,Rice Water,No exposure,False,True
+13,64,Male,Severe,110,211.0,False,Normal,144,True,Watery,No exposure,False,True
+14,58,Female,Severe,150,283.0,True,Normal,162,False,Rice Water,No exposure,False,True
+15,50,Female,High,120,219.0,False,Abnormal,158,False,Watery,No exposure,False,True
+16,58,Female,High,120,340.0,False,Abnormal,172,False,Rice Water,No exposure,False,True
+17,66,Female,Severe,150,226.0,False,Abnormal,114,False,Normal,No exposure,False,True
+18,43,Male,Mild,150,247.0,False,Abnormal,171,False,Rice Water,No exposure,False,True
+19,69,Female,Severe,140,239.0,False,Abnormal,151,False,Rice Water,Untreated water,False,True
+20,59,Male,Mild,135,234.0,False,Abnormal,161,False,Watery,No exposure,False,True
+21,44,Male,High,130,233.0,False,Abnormal,179,True,Rice Water,No exposure,False,True
+22,42,Male,Mild,140,226.0,False,Abnormal,178,False,Rice Water,No exposure,False,True
+23,61,Male,High,150,243.0,True,Abnormal,137,True,Watery,No exposure,False,True
+24,40,Male,Severe,140,199.0,False,Abnormal,178,True,Rice Water,No exposure,False,True
+25,71,Female,Moderate,160,302.0,False,Abnormal,162,False,Rice Water,Untreated water,False,True
+26,59,Male,High,150,212.0,True,Abnormal,157,False,Rice Water,No exposure,False,True
+27,51,Male,High,110,175.0,False,Abnormal,123,False,Rice Water,No exposure,False,True
+28,65,Female,High,140,417.0,True,Normal,157,False,Rice Water,Raw food,False,True
+29,53,Male,High,130,197.0,True,Normal,152,False,Normal,No exposure,False,True
+30,41,Female,Moderate,105,198.0,False,Abnormal,168,False,Rice Water,Raw food,False,True
+31,65,Male,Mild,120,177.0,False,Abnormal,140,False,Rice Water,No exposure,False,True
+32,44,Male,Moderate,130,219.0,False,Normal,188,False,Rice Water,No exposure,False,True
+33,54,Male,High,125,273.0,False,Normal,152,False,Normal,Raw food,False,True
+34,51,Male,Severe,125,213.0,False,Normal,125,True,Rice Water,Raw food,False,True
+35,46,Female,High,142,177.0,False,Normal,160,True,Normal,No exposure,False,True
+36,54,Female,High,135,304.0,True,Abnormal,170,False,Rice Water,No exposure,False,True
+37,54,Male,High,150,232.0,False,Normal,165,False,Rice Water,No exposure,False,True
+38,65,Female,High,155,269.0,False,Abnormal,148,False,Rice Water,No exposure,False,True
+39,65,Female,High,160,360.0,False,Normal,151,False,Rice Water,No exposure,False,True
+40,51,Female,High,140,308.0,False,Normal,142,False,Rice Water,Raw food,False,True
+41,48,Male,Moderate,130,245.0,False,Normal,180,False,Watery,No exposure,False,True
+42,45,Male,Mild,104,208.0,False,Normal,148,True,Watery,No exposure,False,True
+43,53,Female,Mild,130,264.0,False,Normal,143,False,Watery,No exposure,False,True
+44,39,Male,High,140,321.0,False,Normal,182,False,Rice Water,No exposure,False,True
+45,52,Male,Moderate,120,325.0,False,Abnormal,172,False,Rice Water,No exposure,False,True
+46,44,Male,High,140,235.0,False,Normal,180,False,Rice Water,No exposure,False,True
+47,47,Male,High,138,257.0,False,Normal,156,False,Rice Water,No exposure,False,True
+48,53,Female,High,128,216.0,False,Normal,115,False,Rice Water,No exposure,False,True
+49,53,Female,Mild,138,234.0,False,Normal,160,False,Rice Water,No exposure,False,True
+50,51,Female,High,130,256.0,False,Normal,149,False,Rice Water,No exposure,False,True
+51,66,Male,Mild,120,302.0,False,Normal,151,False,Watery,No exposure,False,True
+52,62,Male,High,130,231.0,False,Abnormal,146,False,Watery,Bad hygiene,False,True
+53,44,Female,High,108,141.0,False,Abnormal,175,False,Watery,No exposure,False,True
+54,63,Female,High,135,252.0,False,Normal,172,False,Rice Water,No exposure,False,True
+55,52,Male,Moderate,134,201.0,False,Abnormal,158,False,Rice Water,Raw food,False,True
+56,48,Male,Mild,122,222.0,False,Normal,186,False,Rice Water,No exposure,False,True
+57,45,Male,Mild,115,260.0,False,Normal,185,False,Rice Water,No exposure,False,True
+58,34,Male,Severe,118,182.0,False,Normal,174,False,Rice Water,No exposure,False,True
+59,57,Female,Mild,128,303.0,False,Normal,159,False,Rice Water,Raw food,False,True
+60,71,Female,High,110,265.0,True,Normal,130,False,Rice Water,Raw food,False,True
+61,54,Male,Moderate,108,309.0,False,Abnormal,156,False,Rice Water,No exposure,False,True
+62,52,Male,Severe,118,186.0,False,Normal,190,False,Watery,No exposure,False,True
+63,41,Male,Moderate,135,203.0,False,Abnormal,132,False,Watery,No exposure,False,True
+64,58,Male,High,140,211.0,True,Normal,165,False,Rice Water,No exposure,False,True
+65,35,Female,Mild,138,183.0,False,Abnormal,182,False,Rice Water,No exposure,False,True
+66,51,Male,High,100,222.0,False,Abnormal,143,True,Watery,No exposure,False,True
+67,45,Female,Moderate,130,234.0,False,Normal,175,False,Watery,No exposure,False,True
+68,44,Male,Moderate,120,220.0,False,Abnormal,170,False,Rice Water,No exposure,False,True
+69,62,Female,Mild,124,209.0,False,Abnormal,163,False,Rice Water,No exposure,False,True
+70,54,Male,High,120,258.0,False,Normal,147,False,Watery,No exposure,False,True
+71,51,Male,High,94,227.0,False,Abnormal,154,True,Rice Water,Raw food,False,True
+72,29,Male,Moderate,130,204.0,False,Normal,202,False,Rice Water,No exposure,False,True
+73,51,Male,Mild,140,261.0,False,Normal,186,True,Rice Water,No exposure,False,True
+74,43,Female,High,122,213.0,False,Abnormal,165,False,Watery,No exposure,False,True
+75,55,Female,Moderate,135,250.0,False,Normal,161,False,Watery,No exposure,False,True
+76,51,Male,High,125,245.0,True,Normal,166,False,Watery,No exposure,False,True
+77,59,Male,Moderate,140,221.0,False,Abnormal,164,True,Rice Water,No exposure,False,True
+78,52,Male,Moderate,128,205.0,True,Abnormal,184,False,Rice Water,No exposure,False,True
+79,58,Male,High,105,240.0,False,Normal,154,True,Watery,No exposure,False,True
+80,41,Male,High,112,250.0,False,Abnormal,179,False,Rice Water,No exposure,False,True
+81,45,Male,Moderate,128,308.0,False,Normal,170,False,Rice Water,No exposure,False,True
+82,60,Female,High,102,318.0,False,Abnormal,160,False,Rice Water,Raw food,False,True
+83,52,Male,Severe,152,298.0,True,Abnormal,178,False,Watery,No exposure,False,True
+84,42,Female,Mild,102,265.0,False,Normal,122,False,Watery,No exposure,False,True
+85,67,Female,High,115,564.0,False,Normal,160,False,Watery,No exposure,False,True
+86,68,Male,High,118,277.0,False,Abnormal,151,False,Rice Water,Raw food,False,True
+87,46,Male,Moderate,101,197.0,True,Abnormal,156,False,Rice Water,No exposure,False,True
+88,54,Female,High,110,214.0,False,Abnormal,158,False,Watery,No exposure,False,True
+89,58,Female,Mild,100,248.0,False,Normal,122,False,Watery,No exposure,False,True
+90,48,Male,High,124,255.0,True,Abnormal,175,False,Rice Water,Untreated water,False,True
+91,57,Male,Mild,132,207.0,False,Abnormal,168,True,Rice Water,No exposure,False,True
+93,54,Female,Moderate,132,288.0,True,Normal,159,True,Rice Water,Raw food,False,True
+94,45,Female,Moderate,112,160.0,False,Abnormal,138,False,Watery,No exposure,False,True
+95,53,Male,Mild,142,226.0,False,Normal,111,True,Rice Water,No exposure,False,True
+96,62,Female,Mild,140,394.0,False,Normal,157,False,Watery,No exposure,False,True
+97,52,Male,Mild,108,233.0,True,Abnormal,147,False,Rice Water,Bad hygiene,False,True
+98,43,Male,High,130,315.0,False,Abnormal,162,False,Rice Water,Raw food,False,True
+99,53,Male,High,130,,True,Normal,173,False,Rice Water,Bad hygiene,False,True
+100,42,Male,Severe,148,244.0,False,Normal,178,False,Rice Water,Untreated water,False,True
+101,59,Male,Severe,178,270.0,False,Normal,145,False,Normal,No exposure,False,True
+102,63,Female,Moderate,140,195.0,False,Abnormal,179,False,Rice Water,Untreated water,False,True
+103,42,Male,High,120,240.0,True,Abnormal,194,False,Normal,No exposure,False,True
+104,50,Male,High,129,196.0,False,Abnormal,163,False,Rice Water,No exposure,False,True
+105,68,Female,High,120,211.0,False,Normal,115,False,Watery,No exposure,False,True
+106,69,Male,Severe,160,234.0,True,Normal,131,False,Watery,Raw food,False,True
+107,45,Female,Mild,138,236.0,False,Normal,152,True,Watery,No exposure,False,True
+108,50,Female,Moderate,120,244.0,False,Abnormal,162,False,Rice Water,No exposure,False,True
+109,50,Female,Mild,110,254.0,False,Normal,159,False,Rice Water,No exposure,False,True
+110,64,Female,Mild,180,325.0,False,Abnormal,154,True,Rice Water,No exposure,False,True
+111,57,Male,High,150,126.0,True,Abnormal,173,False,Rice Water,Raw food,False,True
+112,64,Female,High,140,313.0,False,Abnormal,133,False,Rice Water,No exposure,False,True
+113,43,Male,Mild,110,211.0,False,Abnormal,161,False,Rice Water,No exposure,False,True
+114,55,Male,Moderate,130,262.0,False,Abnormal,155,False,Rice Water,No exposure,False,True
+115,37,Female,High,120,215.0,False,Abnormal,170,False,Rice Water,No exposure,False,True
+116,41,Male,High,130,214.0,False,Normal,168,False,Watery,No exposure,False,True
+117,56,Male,Severe,120,193.0,False,Normal,162,False,Watery,No exposure,False,True
+118,46,Female,Moderate,105,204.0,False,Abnormal,172,False,Rice Water,No exposure,False,True
+119,46,Female,Mild,138,243.0,False,Normal,152,True,Watery,No exposure,False,True
+120,64,Female,Mild,130,303.0,False,Abnormal,122,False,Watery,Untreated water,False,True
+121,59,Male,Mild,138,271.0,False,Normal,182,False,Rice Water,No exposure,False,True
+122,41,Female,High,112,268.0,False,Normal,172,True,Rice Water,No exposure,False,True
+123,54,Female,High,108,267.0,False,Normal,167,False,Rice Water,No exposure,False,True
+124,39,Female,High,94,199.0,False,Abnormal,179,False,Rice Water,No exposure,False,True
+125,34,Female,Moderate,118,210.0,False,Abnormal,192,False,Rice Water,No exposure,False,True
+126,47,Male,Mild,112,204.0,False,Abnormal,143,False,Rice Water,No exposure,False,True
+127,67,Female,High,152,277.0,False,Abnormal,172,False,Rice Water,Raw food,False,True
+128,52,Female,High,136,196.0,False,Normal,169,False,Watery,No exposure,False,True
+129,74,Female,Moderate,120,269.0,False,Normal,121,True,Rice Water,Raw food,False,True
+130,54,Female,High,160,201.0,False,Abnormal,163,False,Rice Water,Raw food,False,True
+131,49,Female,Moderate,134,271.0,False,Abnormal,162,False,Watery,No exposure,False,True
+132,42,Male,Moderate,120,295.0,False,Abnormal,162,False,Rice Water,No exposure,False,True
+133,41,Male,Moderate,110,235.0,False,Abnormal,153,False,Rice Water,No exposure,False,True
+134,41,Female,Moderate,126,,False,Abnormal,163,False,Rice Water,No exposure,False,True
+135,49,Female,Mild,130,,False,Abnormal,163,False,Rice Water,No exposure,False,True
+136,60,Female,High,120,178.0,True,Abnormal,96,False,Rice Water,No exposure,False,True
+137,62,Male,Moderate,128,208.0,True,Normal,140,False,Rice Water,No exposure,False,True
+138,57,Male,Mild,110,201.0,False,Abnormal,126,True,Watery,No exposure,False,True
+139,64,Male,Mild,128,263.0,False,Abnormal,105,True,Watery,Raw food,False,True
+140,51,Female,High,120,295.0,False,Normal,157,False,Rice Water,No exposure,False,True
+141,43,Male,Mild,115,303.0,False,Abnormal,181,False,Watery,No exposure,False,True
+142,42,Female,High,120,209.0,False,Abnormal,173,False,Watery,No exposure,False,True
+143,67,Female,Mild,106,223.0,False,Abnormal,142,False,Rice Water,Untreated water,False,True
+144,76,Female,High,140,197.0,False,Clear,116,False,Watery,No exposure,False,True
+145,70,Male,Moderate,156,245.0,False,Normal,143,False,Rice Water,No exposure,False,True
+146,44,Female,High,118,242.0,False,Abnormal,149,False,Watery,Raw food,False,True
+147,60,Female,Severe,150,240.0,False,Abnormal,171,False,Rice Water,No exposure,False,True
+148,44,Male,High,120,226.0,False,Abnormal,169,False,Rice Water,No exposure,False,True
+149,42,Male,High,130,180.0,False,Abnormal,150,False,Rice Water,No exposure,False,True
+150,66,Male,Mild,160,228.0,False,Normal,138,False,Rice Water,No exposure,False,True
+151,71,Female,Mild,112,149.0,False,Abnormal,125,False,Watery,No exposure,False,True
+152,64,Male,Severe,170,227.0,False,Normal,155,False,Watery,No exposure,False,True
+153,66,Female,High,146,278.0,False,Normal,152,False,Watery,Raw food,False,True
+154,39,Female,High,138,220.0,False,Abnormal,152,False,Watery,No exposure,False,True
+155,58,Female,Mild,130,197.0,False,Abnormal,131,False,Watery,No exposure,False,True
+156,47,Male,High,130,253.0,False,Abnormal,179,False,Rice Water,No exposure,False,True
+157,35,Male,Moderate,122,192.0,False,Abnormal,174,False,Rice Water,No exposure,False,True
+159,56,Male,Moderate,130,221.0,False,Normal,163,False,Rice Water,No exposure,False,True
+160,56,Male,Moderate,120,240.0,False,Abnormal,169,False,Normal,No exposure,False,True
+161,55,Female,Moderate,132,342.0,False,Abnormal,166,False,Rice Water,No exposure,False,True
+162,41,Male,Moderate,120,157.0,False,Abnormal,182,False,Rice Water,No exposure,False,True
+165,67,Male,Mild,160,286.0,False,Normal,108,True,Watery,Bad hygiene,False,False
+166,67,Male,Mild,120,229.0,False,Normal,129,True,Watery,Untreated water,False,False
+167,62,Female,Mild,140,268.0,False,Normal,160,False,Normal,Untreated water,True,False
+168,63,Male,Mild,130,254.0,False,Normal,147,False,Watery,Raw food,False,False
+169,53,Male,Mild,140,203.0,True,Normal,155,True,Normal,No exposure,False,False
+170,56,Male,High,130,256.0,True,Normal,142,True,Watery,Raw food,False,False
+171,48,Male,Moderate,110,229.0,False,Abnormal,168,False,Normal,No exposure,False,False
+172,58,Male,Moderate,120,284.0,False,Normal,160,False,Watery,No exposure,False,False
+173,58,Male,High,132,224.0,False,Normal,173,False,Rice Water,Untreated water,False,False
+174,60,Male,Mild,130,206.0,False,Normal,132,True,Watery,Untreated water,False,False
+175,40,Male,Mild,110,167.0,False,Normal,114,True,Watery,No exposure,False,False
+176,60,Male,Mild,117,230.0,True,Abnormal,160,True,Rice Water,Untreated water,False,False
+177,64,Male,High,140,335.0,False,Abnormal,158,False,Rice Water,No exposure,False,False
+178,43,Male,Mild,120,177.0,False,Normal,120,True,Watery,No exposure,False,False
+179,57,Male,Mild,150,276.0,False,Normal,112,True,Watery,Raw food,False,False
+180,55,Male,Mild,132,353.0,False,Abnormal,132,True,Watery,Raw food,False,False
+181,65,Female,Mild,150,225.0,False,Normal,114,False,Watery,Bad hygiene,False,False
+182,61,Female,Mild,130,330.0,False,Normal,169,False,Rice Water,No exposure,False,False
+183,58,Male,High,112,230.0,False,Normal,165,False,Watery,Raw food,False,False
+184,50,Male,Mild,150,243.0,False,Normal,128,False,Watery,No exposure,False,False
+185,44,Male,Mild,112,290.0,False,Normal,153,False,Rice Water,Raw food,False,False
+186,60,Male,Mild,130,253.0,False,Abnormal,144,True,Rice Water,Raw food,False,False
+187,54,Male,Mild,124,266.0,False,Normal,109,True,Watery,Raw food,False,False
+188,50,Male,High,140,233.0,False,Abnormal,163,False,Watery,Raw food,False,False
+189,41,Male,Mild,110,172.0,False,Normal,158,False,Rice Water,No exposure,False,False
+190,51,Female,Mild,130,305.0,False,Abnormal,142,True,Watery,No exposure,False,False
+191,58,Male,Mild,128,216.0,False,Normal,131,True,Watery,Bad hygiene,False,False
+192,54,Male,Mild,120,188.0,False,Abnormal,113,False,Watery,Raw food,False,False
+193,60,Male,Mild,145,282.0,False,Normal,142,True,Watery,Untreated water,False,False
+194,60,Male,High,140,185.0,False,Normal,155,False,Watery,No exposure,False,False
+195,59,Male,Mild,170,326.0,False,Normal,140,True,Normal,No exposure,False,False
+196,46,Male,High,150,231.0,False,Abnormal,147,False,Watery,No exposure,False,False
+197,67,Male,Mild,125,254.0,True,Abnormal,163,False,Watery,Untreated water,False,False
+198,3,Male,Mild,120,267.0,False,Abnormal,99,True,Watery,Untreated water,False,False
+199,65,Male,Mild,110,248.0,False,Normal,158,False,Rice Water,Untreated water,False,False
+200,44,Male,Mild,110,197.0,False,Normal,177,False,Rice Water,Raw food,False,False
+201,60,Male,Mild,125,258.0,False,Normal,141,True,Watery,Raw food,False,False
+202,58,Male,Mild,150,270.0,False,Normal,111,True,Rice Water,No exposure,False,False
+203,68,Male,High,180,274.0,True,Normal,150,True,Watery,No exposure,False,False
+204,62,Female,Mild,160,164.0,False,Normal,145,False,Normal,Bad hygiene,False,False
+205,52,Male,Mild,128,255.0,False,Abnormal,161,True,Rice Water,Raw food,False,False
+206,59,Male,Mild,110,239.0,False,Normal,142,True,Watery,Raw food,False,False
+207,60,Female,Mild,150,258.0,False,Normal,157,False,Watery,Untreated water,False,False
+208,49,Male,High,120,188.0,False,Abnormal,139,False,Watery,Bad hygiene,False,False
+209,59,Male,Mild,140,177.0,False,Abnormal,162,True,Rice Water,Raw food,False,False
+210,57,Male,High,128,229.0,False,Normal,150,False,Watery,Raw food,False,False
+211,61,Male,Mild,120,260.0,False,Abnormal,140,True,Watery,Raw food,False,False
+212,39,Male,Mild,118,219.0,False,Abnormal,140,False,Watery,No exposure,False,False
+213,61,Female,Mild,145,307.0,False,Normal,146,True,Watery,No exposure,False,False
+214,56,Male,Mild,125,249.0,True,Normal,144,True,Watery,Raw food,False,False
+215,43,Female,Mild,132,341.0,True,Normal,136,True,Watery,No exposure,False,False
+216,62,Female,High,130,263.0,False,Abnormal,97,False,Watery,Raw food,False,False
+217,63,Male,Mild,130,330.0,True,Normal,132,True,Rice Water,Bad hygiene,False,False
+218,65,Male,Mild,135,254.0,False,Normal,127,False,Watery,Raw food,False,False
+219,48,Male,Mild,130,256.0,True,Normal,150,True,Rice Water,Untreated water,False,False
+220,63,Female,Mild,150,407.0,False,Normal,154,False,Watery,Bad hygiene,False,False
+221,55,Male,Mild,140,217.0,False,Abnormal,111,True,Normal,No exposure,False,False
+222,65,Male,Severe,138,282.0,True,Normal,174,False,Watery,Raw food,False,False
+223,56,Female,Mild,200,288.0,True,Normal,133,True,Normal,Untreated water,False,False
+224,54,Male,Mild,110,239.0,False,Abnormal,126,True,Watery,Raw food,False,False
+225,70,Male,Mild,145,174.0,False,Abnormal,125,True,Normal,No exposure,False,False
+226,62,Male,Moderate,120,281.0,False,Normal,103,False,Watery,Raw food,False,False
+227,35,Male,Mild,120,198.0,False,Abnormal,130,True,Watery,No exposure,False,False
+228,59,Male,Severe,170,288.0,False,Normal,159,False,Watery,No exposure,False,False
+229,64,Male,High,125,309.0,False,Abnormal,131,True,Watery,No exposure,False,False
+230,47,Male,High,108,243.0,False,Abnormal,152,False,Rice Water,No exposure,False,False
+231,57,Male,Mild,165,289.0,True,Normal,124,False,Watery,Bad hygiene,False,False
+232,55,Male,Mild,160,289.0,False,Normal,145,True,Watery,Raw food,False,False
+233,64,Male,Mild,120,246.0,False,Normal,96,True,Normal,Raw food,False,False
+234,70,Male,Mild,130,322.0,False,Normal,109,False,Watery,Bad hygiene,False,False
+235,51,Male,Mild,140,299.0,False,Abnormal,173,True,Rice Water,No exposure,False,False
+236,58,Male,Mild,125,300.0,False,Normal,171,False,Rice Water,Untreated water,False,False
+237,60,Male,Mild,140,293.0,False,Normal,170,False,Watery,Untreated water,False,False
+238,77,Male,Mild,125,304.0,False,Normal,162,True,Rice Water,Bad hygiene,False,False
+239,35,Male,Mild,126,282.0,False,Normal,156,True,Rice Water,No exposure,False,False
+240,70,Male,High,160,269.0,False,Abnormal,112,True,Watery,Raw food,False,False
+241,59,Female,Mild,174,249.0,False,Abnormal,143,True,Watery,No exposure,False,False
+242,64,Male,Mild,145,212.0,False,Normal,132,False,Watery,Untreated water,False,False
+243,57,Male,Mild,152,274.0,False,Abnormal,88,True,Watery,Raw food,False,False
+244,56,Male,Mild,132,184.0,False,Normal,105,True,Watery,Raw food,False,False
+245,48,Male,Mild,124,274.0,False,Normal,166,False,Watery,No exposure,False,False
+246,56,Female,Mild,134,409.0,False,Normal,150,True,Watery,Untreated water,False,False
+247,100,Male,Moderate,160,246.0,False,Abnormal,120,True,Watery,Bad hygiene,False,False
+248,54,Male,Moderate,192,283.0,False,Normal,195,False,Rice Water,Raw food,False,False
+249,69,Male,High,140,254.0,False,Normal,146,False,Watery,Bad hygiene,False,False
+250,51,Male,Mild,140,298.0,False,Abnormal,122,True,Watery,Bad hygiene,False,False
+252,62,Female,Mild,138,294.0,True,Abnormal,106,False,Watery,Bad hygiene,False,False
+253,67,Male,Mild,100,299.0,False,Normal,125,True,Watery,Untreated water,False,False
+254,59,Male,Severe,160,273.0,False,Normal,125,False,Rice Water,No exposure,False,False
+255,45,Male,Mild,142,309.0,False,Normal,147,True,Watery,Bad hygiene,False,False
+256,58,Male,Mild,128,259.0,False,Normal,130,True,Watery,Untreated water,False,False
+257,50,Male,Mild,144,200.0,False,Normal,126,True,Watery,No exposure,False,False
+258,62,Female,Mild,150,244.0,False,Abnormal,154,True,Watery,No exposure,False,False
+259,38,Male,Severe,120,231.0,False,Abnormal,182,True,Watery,No exposure,False,False
+260,66,Female,Mild,178,,True,Abnormal,165,True,Watery,Untreated water,False,False
+261,52,Male,Mild,112,230.0,False,Abnormal,160,False,Rice Water,Raw food,False,False
+262,53,Male,Mild,123,282.0,False,Abnormal,95,True,Watery,Untreated water,False,False
+263,63,Female,Mild,108,269.0,False,Abnormal,169,True,Watery,Untreated water,False,False
+264,54,Male,Mild,110,206.0,False,Normal,108,True,Watery,Raw food,False,False
+265,66,Male,Mild,112,212.0,False,Normal,132,True,Rice Water,Raw food,False,False
+266,55,Female,Mild,180,327.0,False,Clear,117,True,Watery,No exposure,False,False
+267,49,Male,High,118,149.0,False,Normal,126,False,Rice Water,Bad hygiene,False,False
+268,54,Male,Mild,122,286.0,False,Normal,116,True,Watery,Untreated water,False,False
+269,56,Male,Mild,130,283.0,True,Normal,103,True,Normal,No exposure,False,False
+270,46,Male,Mild,120,249.0,False,Normal,144,False,Rice Water,No exposure,False,False
+271,61,Male,Severe,134,234.0,False,Abnormal,145,False,Watery,Untreated water,False,False
+272,67,Male,Mild,120,237.0,False,Abnormal,71,False,Watery,No exposure,False,False
+273,58,Male,Mild,100,234.0,False,Abnormal,156,False,Rice Water,Raw food,False,False
+274,47,Male,Mild,110,275.0,False,Normal,118,True,Watery,Raw food,False,False
+275,52,Male,Mild,125,212.0,False,Abnormal,168,False,Rice Water,Untreated water,False,False
+276,58,Male,Mild,146,218.0,False,Abnormal,105,False,Watery,Raw food,False,False
+277,57,Male,Moderate,124,261.0,False,Abnormal,141,False,Rice Water,No exposure,False,False
+278,58,Female,Moderate,136,319.0,True,Normal,152,False,Rice Water,Untreated water,False,False
+279,61,Male,Mild,138,166.0,False,Normal,125,True,Watery,Raw food,False,False
+280,42,Male,Mild,136,315.0,False,Abnormal,125,True,Watery,No exposure,False,False
+281,52,Male,Mild,128,204.0,True,Abnormal,156,True,Watery,No exposure,False,False
+282,59,Male,High,126,218.0,True,Abnormal,134,False,Watery,Raw food,False,False
+283,40,Male,Mild,152,223.0,False,Abnormal,181,False,Rice Water,No exposure,False,False
+284,61,Male,Mild,140,207.0,False,Normal,138,True,Rice Water,Raw food,False,False
+285,46,Male,Mild,140,311.0,False,Abnormal,120,True,Watery,Untreated water,False,False
+286,59,Male,Severe,134,204.0,False,Abnormal,162,False,Rice Water,Untreated water,False,False
+287,57,Male,Moderate,154,232.0,False,Normal,164,False,Rice Water,Raw food,False,False
+288,57,Male,Mild,110,335.0,False,Abnormal,143,True,Watery,Raw food,False,False
+289,55,Female,Mild,128,205.0,False,Clear,130,True,Watery,Raw food,False,False
+290,61,Male,Mild,148,203.0,False,Abnormal,161,False,Rice Water,Raw food,False,False
+291,58,Male,Mild,114,318.0,False,Clear,140,False,Normal,Bad hygiene,False,False
+292,58,Female,Mild,170,225.0,True,Normal,146,True,Watery,Untreated water,False,False
+293,67,Male,High,152,212.0,False,Normal,150,False,Watery,No exposure,False,False
+294,44,Male,Mild,120,169.0,False,Abnormal,144,True,Normal,No exposure,False,False
+295,63,Male,Mild,140,187.0,False,Normal,144,True,Rice Water,Untreated water,False,False
+296,63,Female,Mild,124,197.0,False,Abnormal,136,True,Watery,No exposure,False,False
+297,59,Male,Mild,164,176.0,True,Normal,90,False,Watery,Untreated water,False,False
+298,57,Female,Mild,140,,False,Abnormal,123,True,Watery,No exposure,False,False
+299,45,Male,Severe,110,264.0,False,Abnormal,132,False,Watery,No exposure,False,False
+300,68,Male,Mild,144,193.0,True,Abnormal,141,False,Watery,Untreated water,False,False
+301,57,Male,Mild,130,131.0,False,Abnormal,115,True,Watery,Raw food,False,False
+302,57,Female,Moderate,130,236.0,False,Normal,174,False,Watery,Raw food,True,False
